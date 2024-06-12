@@ -1,5 +1,5 @@
 let a = 'oi'
-let = 'olá'
+let b = 'olá'
 
 Deno.test("Teste do oi (NO API)", () => {
     if (a != "oi" ){
